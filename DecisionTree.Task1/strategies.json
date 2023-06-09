@@ -1,0 +1,29 @@
+[
+  {
+    "Name":"Big Factory",
+    "Win": {
+      "Value":450000
+    },
+    "Loss": {
+      "Value":-350000
+    }
+  },
+  {
+    "Name":"Small Business",
+    "Win": {
+      "Value":300000
+    },
+    "Loss": {
+      "Value":-60000
+    }
+  },
+  {
+    "Name":"Patent Sale",
+    "Win": {
+      "Value":70000
+    },
+    "Loss": {
+      "Value":70000
+    }
+  }
+]

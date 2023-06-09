@@ -1,0 +1,11 @@
+{
+  "MathCoefficient": 0.4,
+  "EnglishCoefficient": 0.3,
+  "UkrainianCoefficient": 0.3,
+  "MaxAccepted": 350,
+  "MinRating": 160,
+  "MinMathScore": 140,
+  "PrivilegedPercentage": 0.1,
+  "MinPrivilegedRating": 144,
+  "MinPrivilegedScore": 120
+}
